@@ -16,5 +16,5 @@
 博客地址：[https://github.com/Captain109/blog-test/blob/main/README.md](https://github.com/Captain109/blog-test/blob/main/README.md)
 
 ```html
-<h1>hello world<h1>
+<h1>hello world</h1>
 ```
